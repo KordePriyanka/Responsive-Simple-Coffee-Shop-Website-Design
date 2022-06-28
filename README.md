@@ -3,7 +3,7 @@
 # Responsive-Simple-Coffee-Shop-Website-Design
 This is simple Responsive design for Coffee Shop Website made using HTML and CSS only. 
 
-The website will be responsive upto 450 px only.
+
 
 ## Demo
 
