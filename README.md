@@ -7,7 +7,7 @@ This is simple Responsive design for Coffee Shop Website made using HTML and CSS
 
 ## Demo
 
-https://kpriyanka.000webhostapp.com/
+
 
 
 ## 🔗 Links
